@@ -1,0 +1,8 @@
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.zip
+build/
+.DS_Store
+backend.tf

@@ -1,0 +1,94 @@
+{
+    "description": "This lab provides hands-on experience S3 AWS service, guiding participants through accessing the AWS Management Console, creating an S3 bucket, configuring and using AWS CLI, and uploading files to the S3 bucket.",
+    "duration": 30,
+    "feature_codes_required": [
+      "AWS-S3",
+      "AWS-CLI"
+    ],
+    "goals": [
+      {
+        "description": "Access the AWS Management Console.",
+        "tasks": [
+          {
+            "description": "Open web browser and login to AWS Management Console.",
+            "id": "task-001",
+            "title": "Access AWS Management Console",
+            "type": "manual"
+          }
+        ],
+        "title": "AWS Management Console Access"
+      },
+      {
+        "description": "Create an S3 bucket.",
+        "tasks": [
+          {
+            "description": "Create S3 bucket with specified configurations.",
+            "id": "task-002",
+            "title": "Create S3 Bucket",
+            "type": "manual"
+          },
+          {
+            "description": "Verify bucket creation in S3 dashboard.",
+            "id": "task-003",
+            "title": "Verify S3 Bucket Creation",
+            "type": "manual"
+          }
+        ],
+        "title": "S3 Bucket Creation"
+      },
+      {
+        "description": "Configure and use AWS CLI.",
+        "tasks": [
+          {
+            "description": "Configure AWS CLI with credentials.",
+            "id": "task-004",
+            "title": "Configure AWS CLI",
+            "type": "manual"
+          },
+          {
+            "description": "Verify AWS CLI configuration by listing S3 buckets.",
+            "id": "task-005",
+            "title": "Verify AWS CLI Configuration",
+            "type": "manual"
+          }
+        ],
+        "title": "AWS CLI Configuration"
+      },
+      {
+        "description": "Upload a file to the S3 bucket.",
+        "tasks": [
+          {
+            "description": "Use AWS CLI to upload file to S3 bucket.",
+            "id": "task-006",
+            "title": "Upload File to S3 Bucket",
+            "type": "manual"
+          },
+          {
+            "description": "Verify file upload in S3 bucket.",
+            "id": "task-007",
+            "title": "Verify File Upload in S3",
+            "type": "manual"
+          }
+        ],
+        "title": "File Upload to S3"
+      }
+    ],
+    "illustration": "https://app.stg.scalyz.cloud/static/media/illustration-4.svg",
+    "learned_skills": [
+      "Access AWS Management Console",
+      "Create and configure S3 buckets",
+      "Configure and use AWS CLI",
+      "Upload files to S3 buckets"
+    ],
+    "name": "AWS Practitioner S3",
+    "owner_id": "u85cfe343a4b24fb7976504654bddffb6",
+    "resources": [],
+    "slug": "aws-practitioner-s3",
+    "tags": [
+      "AWS",
+      "Cloud Practitioner",
+      "S3",
+      "AWS CLI"
+    ]
+  }
+  

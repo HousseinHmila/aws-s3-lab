@@ -1,0 +1,5 @@
+{
+    "qcm-1": "Must be unique across all existing bucket names in Amazon S3.",
+    "qcm-2": "aws s3 cp localfile.txt s3://yourbucketname",
+    "qcm-3": "To keep multiple versions of an object in the same bucket."
+}
